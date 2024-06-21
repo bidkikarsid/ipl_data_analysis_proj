@@ -1,2 +1,4 @@
-# ipl_data_analysis_proj
-An end-to-end data engineering project focusing on IPL data analysis using Apache Spark. The main objective is to demonstrate the process of building a data pipeline and performing data transformations using various Spark functions.
+IPL Data Analysis - Apache Spark End-To-End Data Engineering Project
+This repository contains the code and resources for an end-to-end data engineering project that focuses on analyzing IPL data using Apache Spark.
+
+Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
